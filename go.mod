@@ -1,3 +1,3 @@
-module github.com/mitchellh/hashstructure
+module github.com/tetratelabs/hashstructure
 
 go 1.14
